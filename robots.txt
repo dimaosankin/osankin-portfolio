@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://osankin.pages.dev/sitemap.xml

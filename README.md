@@ -38,3 +38,11 @@ Content is based on `CV_Osankin.pdf`: seven employment entries, education, techn
 
 ## Portfolio project selection
 Selected projects: Medik8 Ukraine, Apeer Ukraine, Allstate Canada, Ruinart and Adagio Aparthotels. Removed Celine and Condé Nast Abonnement from the public portfolio.
+
+
+## SEO / publication
+- `og-cover.png` — social preview (1200 × 630)
+- `robots.txt`, `sitemap.xml` — search engine discovery
+- Canonical and social metadata use `https://osankin.pages.dev/`. Update all URLs if a custom domain is connected.
+- EN/UA is client-side language switching on a single URL; social crawlers see English metadata. Dedicated indexed Ukrainian pages would require separate URLs.
+- Cloudflare Pages: Framework `None`, build command blank, output directory `.`.
